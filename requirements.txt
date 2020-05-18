@@ -1,0 +1,12 @@
+seaborn
+pandas
+matplotlib
+bqplot
+notebook
+ipywidgets
+nbgrader
+numpy
+rise
+ordo
+tqdm
+networkx
