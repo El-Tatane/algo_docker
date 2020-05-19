@@ -10,3 +10,4 @@ rise
 ordo
 tqdm
 networkx
+pytest
